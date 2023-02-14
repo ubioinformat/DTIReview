@@ -3,4 +3,4 @@ Drug-target interaction (DTI) prediction is a relevant but challenging task in t
 
 | ![Review Figure](panel_fig1.png) |
 |:--:|
-| <b> **A**. Datasets colored by origin of the data; number of nodes (drugs and proteins) for each dataset are shown in brackets. **B**. Models to be reviewed from different data, incl. publication year and feature extraction method.  **C**. Benchmarking of DTI prediction models. **Left**. Results obtained from the naive classifier based on *node2vec* followed by a 2-layer Neural Network (NN). **Right**. Evaluation of transductive vs. inductive methods.  </b>|
+|**A**. Datasets colored by origin of the data; number of nodes (drugs and proteins) for each dataset are shown in brackets. **B**. Models to be reviewed from different data, incl. publication year and feature extraction method.  **C**. Benchmarking of DTI prediction models. **Left**. Results obtained from the naive classifier based on *node2vec* followed by a 2-layer Neural Network (NN). **Right**. Evaluation of transductive vs. inductive methods. |
